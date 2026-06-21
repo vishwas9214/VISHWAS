@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Mind Spark",
+  "description": "A knowledge-first social network for sharing ideas, research, and startup concepts without the distraction of short-form entertainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
